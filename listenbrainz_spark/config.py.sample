@@ -13,5 +13,5 @@ RABBITMQ_VHOST = '/'
 
 
 # RabbitMQ exchanges and queues
-INCOMING_EXCHANGE = 'spark'
+INCOMING_EXCHANGE = 'unique'
 INCOMING_QUEUE = 'spark'
